@@ -1,0 +1,28 @@
+name: Space Cowboy
+favicon: null
+layout_spectrum: 0.5822147540748119
+typography_spectrum: 0.03207515808753669
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2500815747771412
+  lightness: 0.6530677052214742
+  saturation: 0.45178503124043345
+  rhythmicContrast: 0.5987156047485769
+purpose: []
